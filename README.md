@@ -2,3 +2,5 @@
 
 Установка необходимых зависимостей:
 pip install cryptography sqlite3
+
+Приватные ключи в файл private_keys.txt
