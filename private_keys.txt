@@ -1,0 +1,4 @@
+{
+    "account1": "your_private_key1",
+    "account2": "your_private_key2"
+}
